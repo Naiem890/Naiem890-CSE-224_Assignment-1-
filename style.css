@@ -12,12 +12,8 @@
     padding : 20px;
     width : 1240px;
     height : auto;
-    /* background-color: red;*/
 }
 
-/* .col{
-    background-color:royalblue;
-} */
 
 /*<------------- Nav bar start ------------->*/
 
@@ -129,15 +125,11 @@
     .campus{
         padding: 16px 0px;
     }
-    /* .campus h4{
-       background : red;
-   } */
    .campus-content-left{
        display: flex;
        flex-wrap: nowrap;
        justify-content: space-between;
        padding-top: 20px;
-       /* background-color: chocolate; */
    }
    .campus-content-right{
        flex-wrap: nowrap;
